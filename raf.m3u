@@ -295,7 +295,7 @@ https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 cuid="84" tvg-chno="92" tvg-name="The Weather Channel 🇺🇸🇨🇦" tvg-id="The.Weather.Channel.us" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/30f15c6306301ee13aa6e08d6b78f00a.png" group-title="🆁 Meteorology 🇺🇸🇨🇦",The Weather Channel 🇺🇸🇨🇦
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8
 
---- 📺  𝙉𝙚𝙬𝙨 🌍
+--- 📺  𝙉OTICIAS 🌍
 
 #EXTINF:-1 cuid="" tvg-chno="299" tvg-name="Record News 🇧🇷" tvg-id="RECORDNEWS" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="🆁 News 🇵🇹🇧🇷",Record News 🇧🇷 [ᴏᴛᴛᴇʀᴀ]
 https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
@@ -430,7 +430,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,B
 #EXTINF:-1 cuid="" tvg-chno="339" tvg-name="Car Chase News 🇺🇸" tvg-id="65a939fad77d450008863835" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31livestitch/colorLogoPNG.png" group-title="🆁 News 🌍",Car Chase News 🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65244c403fd33c0008ffff31livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
---- 📺 𝘾𝙉𝙉 𝙉𝙚𝙬𝙨
+--- 📺 𝘾𝙉𝙉 𝙉OTICIAS
 
 #EXTINF:-1 cuid="" tvg-chno="340" tvg-name="CNN 🇺🇸" tvg-id="CNN.HD.uk" tvg-logo="http://lonewolftvpr.com/logos/cnn.png" group-title="🆁 News 🌍",CNN 🇺🇸
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
@@ -454,7 +454,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c45ba803e3b20008d8c
 #EXTINF:-1 cuid="" tvg-chno="344" tvg-name="CNN Fast 🇺🇸" tvg-id="66c45ba803e3b20008d8c294" tvg-logo="https://photos5.appleinsider.com/archive/gallery/12287-6010-cnngo-l.jpg" group-title="🆁 News 🌍",CNN GO 🇺🇸
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
---- 📺 𝙁𝙊𝙓 𝙉𝙚𝙬𝙨
+--- 📺 𝙁𝙊𝙓 𝙉OTICIAS
 
 #EXTINF:-1 cuid="" tvg-chno="345" tvg-name="Sky News 🇺🇸" tvg-id="Sky.News.HD.uk" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="🆁 News 🌍",Sky News 🇺🇸
 https://is.gd/CHzw32?SkyNews.m3u8
@@ -471,7 +471,7 @@ https://live-manifest.production-public.tubi.io/live/346a3973-426a-45dc-85fd-a59
 #EXTINF:-1 cuid="" tvg-chno="351" tvg-name="FOX 12 New York" tvg-logo="https://canvas-lb.tubitv.com/opts/-7LfJWOBjXLPNQ==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjVAAQ==" group-title="🆁 News 🌍",FOX 12 New York 🇺🇸
 https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8
 
---- 📺 𝙉𝘽𝘾 𝙉𝙚𝙬𝙨
+--- 📺 𝙉𝘽𝘾 NOTICIAS
 
 #EXTINF:-1 cuid="" tvg-chno="352" tvg-name="GB News ᶠᴴᴰ 🇬🇧" tvg-id="UK:.GB.News.en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" group-title="🆁 News 🌍",GB News ᶠᴴᴰ 🇬🇧
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
@@ -490,7 +490,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c8
 #EXTINF:-1 cuid="" tvg-chno="353" tvg-name="NBC News Now 🇺🇸" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NBCNewsNow.webp" group-title="🆁 News 🌍",NBC News Now 🇺🇸
 https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
 
---- 📺 𝘾𝘽𝙎 𝙉𝙚𝙬𝙨
+--- 📺 𝘾𝘽𝙎 NOTICIAS
 
 #EXTINF:-1 cuid="" tvg-chno="" tvg-name="" tvg-id="CBSNewsBoston.us" tvg-logo="https://i.imgur.com/9un7R3N.png" group-title="🆁 News 🌍",CBS News Boston 🇺🇸
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
@@ -577,7 +577,7 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/index.m3u8
 #EXTINF:-1 cuid="" tvg-chno="375" tvg-name="Channel News Asia ᶠᴴᴰ" tvg-id="Channel.News.Asia.id" tvg-logo="https://logo.iptveditor.com/cna.png" group-title="🆁 News 🌍",Channel News Asia ᶠᴴᴰ
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
---- 📺 𝙆𝙞𝙙𝙨 🧒 🇵🇹🇧🇷
+--- 📺 CRIANCAS 🧒 🇵🇹🇧🇷
 
 #EXTINF:-1 cuid="" tvg-chno="378" tvg-name="BABYTV" tvg-id="BABYTV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700001E6_20221214T045010SQUARE.png_20221214045011.png" group-title="🆁 Kids 🧒🌎",Baby tv 🇧🇷
 #http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2171067
@@ -763,7 +763,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11774
 #EXTINF:-1 cuid="" tvg-chno="423" tvg-name="Hallo! Anime 🇧🇷" tvg-logo="https://nxplay-images.comets.com.br/resize/671658e85c258_c749ffaf216581a39a55bc9876f76098.png" group-title="🆁 Anime 🇧🇷 🎎",Anime Onegai₅ 🇧🇷 [ᴏᴛᴛᴇʀᴀ]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11773
 
---- 📺  𝙆𝙞𝙙𝙨 🧒 🇺🇸🇬🇧
+--- 📺  CRIANCAS 🧒 🇺🇸🇬🇧
 
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-logo="https://i.imgur.com/8PUbPVU.png" group-title="🆁 Kids 🧒🌎",Camp Spoopy 🇺🇸 [ᴏᴛᴛᴇʀᴀ]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
@@ -819,7 +819,7 @@ https://is.gd/TH0DFt?(cc)o_Kids.m3u8
 #EXTINF:-1 cuid="240" tvg-chno="248" tvg-name="Garfield and Friends 🇺🇸" tvg-id="60faf9ddfcc1f200070a5932" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="🆁 Kids 🧒🌎",Garfield and Friends 🇺🇸
 https://is.gd/KGxtX7?60faf9ddfcc1f200070a5932.m3u8
 
---- 📺 𝙆𝙞𝙙𝙨 🧒 🇪🇸
+--- 📺 CRIANCAS 🧒 🇪🇸
 
 #EXTINF:-1 cuid="" tvg-chno="377" tvg-name="Duck tv" tvg-id="ESBC4700001GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700001E6_20221214T045010SQUARE.png_20221214045011.png" group-title="🆁 Kids 🧒🌎",Duck tv 🇪🇸🇺🇸
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
@@ -1462,7 +1462,7 @@ https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w2083557685.m3u8
 #EXTINF:-1 cuid="382" tvg-chno="382" tvg-name="Miss Universo 🇧🇷" tvg-logo="https://i.pinimg.com/280x280_RS/8b/86/22/8b86223eee0d9cb0e735dc32739356b6.jpg" group-title="🆁 Brasil 🇧🇷",Miss Universo 🇧🇷
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8
 
---- 📺 𝙈𝙤𝙫𝙞𝙚𝙨 🇧🇷
+--- 📺 FILMES 🇧🇷
 
 #EXTINF:-1 cuid="393" tvg-chno="393" tvg-name="Channel 1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/channel1.png" group-title="🅿 Pluto Brasil|☆ Filmes📽️",Channel 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
